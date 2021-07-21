@@ -1,0 +1,14 @@
+GET http://localhost:80/exchange
+X-API-KEY: 123321
+
+###
+GET http://localhost:80/exchange/USD
+X-API-KEY: 123321
+
+###
+GET http://localhost:80/exchange/UAH
+X-API-KEY: 123321
+
+###
+GET http://localhost:80/exchange
+X-API-KEY: 111111
